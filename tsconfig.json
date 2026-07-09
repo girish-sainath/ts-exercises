@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "lib": [
+            "dom",
+            "es2021"
+        ]
+    }
+}
